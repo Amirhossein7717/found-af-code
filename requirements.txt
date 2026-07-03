@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+
+# Modeling
+torch
+xgboost
+transformers
+timm
+einops
+
+# ECG / signal I/O
+wfdb
+
+# Model weight downloads
+huggingface_hub
+gdown
+
+# Plotting
+matplotlib
+
+# Notebook execution
+jupyter
